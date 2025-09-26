@@ -271,6 +271,9 @@ com\.google\.wear\..*
 lineageos\.platform
 org\.lineageos\.platform\.internal
 
+# Evolution X adds
+org.evolution.*
+
 # NT adds
 com\.nothing
 com\.nothing\..*
